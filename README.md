@@ -21,5 +21,5 @@ Made by: Kongzted Development
 
 
 # Credits to:
-Ar1i - https://github.com/Ar1i
-KongztedDev - https://github.com/KongztedDev
+* Ar1i - https://github.com/Ar1i
+* KongztedDev - https://github.com/KongztedDev
