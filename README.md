@@ -26,5 +26,5 @@ Made by: Kongzted Development
 
 # License:
 * This script is free to use and share.
-* It's illigal to edit or charge money for it.
-* Only i (Kongzted Development) can do so, because i am the ligal owner of this script.
+* It's illegal to edit or charge money for it.
+* Only i (Kongzted Development) can do so, because i am the legal owner of this script.
