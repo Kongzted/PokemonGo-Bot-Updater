@@ -27,5 +27,5 @@ This script is made for [Ar1i's PokemonGo Bot](https://github.com/Ar1i/PokemonGo
 
 # License:
 * This script is free to use and share.
-* It's illegal to edit or charge money for it.
+* It's illegal to edit or charge money for this script.
 * Only i (Kongzted Development) can do so, because i am the legal owner of this script.
