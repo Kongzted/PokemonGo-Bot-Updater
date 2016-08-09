@@ -3,7 +3,7 @@ Made by: Kongzted Development
 
 This script is made for [Ar1i's PokemonGo Bot](https://github.com/Ar1i/PokemonGo-Bot).
 
-# Using:
+# How To Use:
 1. Download 'PokemonGo-Bot-Updater.rar' file here.
 
 2. Create a folder where the script and bot can be placed in.
