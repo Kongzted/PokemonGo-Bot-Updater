@@ -1,6 +1,7 @@
 # PokemonGo-Bot-Updater
 Made by: Kongzted Development
 
+This script is made for [Ar1i's PokemonGo Bot](https://github.com/Ar1i/PokemonGo-Bot).
 
 # Using:
 1. Download 'PokemonGo-Bot-Updater.rar' file here.
