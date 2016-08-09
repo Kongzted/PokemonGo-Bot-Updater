@@ -9,7 +9,7 @@ Made by: Kongzted Development
 
 3. Extract the content of the 'script.rar' file to the folder you just created.
 
-4. Run 'Update-Bot.sh' script.
+4. Run 'Update-Bot.sh' script from Git Bash Terminal.
 
 5. Go to 'PokemonGo-Bot/Builds Only' and extract the .rar archive in that folder.
 
