@@ -1,7 +1,8 @@
 # PokemonGo-Bot-Updater
-# Made by: Kongzted Development
+Made by: Kongzted Development
 
 
+# Using:
 1. Download 'PokemonGo-Bot-Updater.rar' file here.
 
 2. Create a folder where the script and bot can be placed in.
