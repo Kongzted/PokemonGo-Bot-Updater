@@ -23,3 +23,8 @@ Made by: Kongzted Development
 # Credits to:
 * Ar1i - https://github.com/Ar1i
 * KongztedDev - https://github.com/KongztedDev
+
+# License:
+* This script is free to use and share.
+* It's illigal to edit or charge money for it.
+* Only i (Kongzted Development) can do so, because i am the ligal owner of this script.
