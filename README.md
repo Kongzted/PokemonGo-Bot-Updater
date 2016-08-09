@@ -18,3 +18,8 @@ Made by: Kongzted Development
 7. Fill out the necessary informations and thats it.
 
 8. (Run the updater every 3rd or 4th day in average.)
+
+
+# Credits to:
+Ar1i - https://github.com/Ar1i
+KongztedDev - https://github.com/KongztedDev
